@@ -9,7 +9,7 @@ Actuator是SpringBoot提供的对应用系统的监控和管理的集成功能�
 
 springboot框架典型特征
 
-![image-20231002114557694](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20231002114557694.png)
+![image](https://github.com/QinYinSafe/SpringCkeck/assets/101846895/17028ad4-5970-45cb-9d5f-9d3ca9111545)
 
 fofa语法：
 
@@ -30,11 +30,12 @@ SpringCheck.exe -u http:*//example.com*
 ```
 SpringCheck.exe -f url.txt
 ```
+![image](https://github.com/QinYinSafe/SpringCkeck/assets/101846895/cd45943a-702b-45b6-8b9c-ad7d69eef317)
+![image](https://github.com/QinYinSafe/SpringCkeck/assets/101846895/5bc20882-c953-4866-bd05-8cf6792793af)
 
-![image-20231002114731782](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20231002114731782.png)
 
-![image-20231002114737575](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20231002114737575.png)
+由于篇幅内容太多，插件使用方式请看下面这篇文章
+https://mp.weixin.qq.com/s/qKtAJYF50Gs4-3GhvOa0_Q
+欢迎师傅们关注微信公众号：
+![image](https://github.com/QinYinSafe/SpringCkeck/assets/101846895/f7f17f7b-73a5-4ad9-9f73-fc3948e1b5a1)
 
-由于内容太多，插件使用方式请关注微信公众号：**琴音安全**查看使用方法
-
-![qrcode_for_gh_930a1284eae3_430](C:\Users\Administrator\Downloads\qrcode_for_gh_930a1284eae3_430.jpg)
