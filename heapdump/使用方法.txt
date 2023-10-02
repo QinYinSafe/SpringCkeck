@@ -1,0 +1,15 @@
+1.cmd执行以下命令启动工具
+java -jar heapdump_tool.jar  heapdump
+
+1. 关键词       例如 password 
+2. 字符长度     len=10    获取长度为10的所有key或者value值
+3. 按顺序获取   num=1-100 获取顺序1-100的字符
+4. class模糊搜索  class=xxx 获取class的instance数据信息
+5. id查询       id=0xaaaaa  获取id为0xaaaaa的class或者object数据信息
+4. re正则查询    re=xxx  自定义正则查询数据信息
+获取url,file,ip
+shirokey 获取shirokey的值
+geturl   获取所有字符串中的url
+getfile  获取所有字符串中的文件路径文件名
+getip    获取所有字符串中的ip
+默认不输出查询结果非key-value格式的数据，需要获取所有值，输入all=true，all=false取消显示所有值。
